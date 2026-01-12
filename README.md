@@ -65,3 +65,19 @@ Compliance & Ethics:
 - Applying industry frameworks (MITRE ATT&CK, NIST)
 
 
+## Tools Used
+Primary Framework
+Metasploit Framework - Comprehensive penetration testing platform for exploit development and execution
+Version: 6.3.x
+Components: msfconsole, msfvenom, meterpreter
+
+Reconnaissance & Enumeration
+- Nmap - Network scanning and service enumeration
+Used for initial host discovery and port scanning
+Service version detection and OS fingerprinting
+enum4linux - SMB/SAMBA enumeration tool
+SMBClient - Manual SMB share enumeration
+crackmapexec - Network authentication testing and execution
+
+
+
