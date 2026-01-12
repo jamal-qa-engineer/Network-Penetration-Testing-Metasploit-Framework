@@ -72,7 +72,7 @@ Version: 6.3.x
 Components: msfconsole, msfvenom, meterpreter
 
 Reconnaissance & Enumeration
-- Nmap - Network scanning and service enumeration
+Nmap - Network scanning and service enumeration
 Used for initial host discovery and port scanning
 Service version detection and OS fingerprinting
 enum4linux - SMB/SAMBA enumeration tool
